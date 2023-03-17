@@ -19,7 +19,7 @@ role: Professor of Earth System Sciences
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Yonsei University
-    url: https://www.yonsei.ac.kr/en_sc/
+    url: https://www.yonsei.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
