@@ -69,7 +69,6 @@ sections:
           date_end: '2023-02-28'
           description: |2-
               Responsibilities include:
-
               * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar
               * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone               
         - title: Lead & Chief Research Scientist
@@ -82,11 +81,9 @@ sections:
           # description: Taught electronic engineering and researched semiconductor physics.
            description: |2-
               Responsibilities include:
-
               * LIS (Land Information System) modeling
               * Water balance and resource studies using satellite observations
-              * Interferometric SAR application to wetland 
-          
+              * Interferometric SAR application to wetland    
     design:
       columns: '3'
       
