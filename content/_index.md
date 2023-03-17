@@ -31,6 +31,8 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+        
+        
   - block: about.avatar
     id: about
     content:
@@ -38,6 +40,8 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      
+<!--      
   - block: features
     content:
       title: Skills
@@ -54,6 +58,9 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+ -->
+ 
+ 
   - block: experience
     content:
       title: Experience
