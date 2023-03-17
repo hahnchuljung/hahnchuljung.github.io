@@ -19,7 +19,7 @@ sections:
       # cta_note:
         # label:  >-
       text: |-
-       <font size="10">  DEPT. EARTH SYSTEM SCIENCES YONSEI UNIVERSITY </font>
+       <font size="7">  DEPT. EARTH SYSTEM SCIENCES YONSEI UNIVERSITY </font>
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
         # <!--GitHub Button JS-->
