@@ -46,6 +46,7 @@ sections:
 
 
   - block: experience
+    id: experience
     content:
       title: Professional Experience
       # Date format for experience
