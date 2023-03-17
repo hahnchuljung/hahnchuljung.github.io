@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Satellite Geosciences @ Yonsei University
+      title: <font size="10"> Welcome to </font> Satellite Geosciences Lab
       image:
         filename: '' # hero-academic.png
       # cta:
@@ -18,8 +18,8 @@ sections:
         # url: https://discord.gg/z8wNYzb
       # cta_note:
         # label:  >-
-#      text: |-
-#       <font size="5"> This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University. </font>
+      text: |-
+       <font size="10"> 위성지구과학 연구실 </font>
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
         # <!--GitHub Button JS-->
