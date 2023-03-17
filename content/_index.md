@@ -19,8 +19,8 @@ sections:
       # cta_note:
         # label:  >-
       text: |-
-       <font size="7">  DEPT. EARTH SYSTEM SCIENCES YONSEI UNIVERSITY </font>
-       <font size="5">  연세대학교 위성지구화학 연구실 홈페이지에 방문하신 것을 환영합니다 </font>
+       <font size="5">  DEPT. EARTH SYSTEM SCIENCES YONSEI UNIVERSITY </font> <br />
+       <font size="3">  연세대학교 위성지구과학 연구실 홈페이지에 방문하신 것을 환영합니다 </font>
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
         # <!--GitHub Button JS-->
