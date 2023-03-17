@@ -18,8 +18,8 @@ sections:
         # url: https://discord.gg/z8wNYzb
       # cta_note:
         # label:  >-
-      text: |-
-       <font size="5"> This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University. </font>
+#      text: |-
+#       <font size="5"> This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University. </font>
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
         # <!--GitHub Button JS-->
