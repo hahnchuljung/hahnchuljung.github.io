@@ -10,14 +10,14 @@ sections:
       title: Welcome! Satellite Geosciences @ Yonsei University
       image:
         filename: hero-academic.png
-      cta:
+      # cta:
         # label: '**Get Started**'
         # url: https://wowchemy.com/templates/
-      cta_alt:
+      # cta_alt:
         # label:  Ask a question
         # url: https://discord.gg/z8wNYzb
-      cta_note:
-        label:  >-
+      # cta_note:
+        # label:  >-
           
       text: |-
   
