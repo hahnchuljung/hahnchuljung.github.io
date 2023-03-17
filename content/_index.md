@@ -10,14 +10,6 @@ sections:
       title: Satellite Geosciences @ Yonsei Univeristy
 #      image:
 #        filename: hero-academic.png
-#      cta:
-#        label: '**Get Started**'
-#        url: https://wowchemy.com/templates/
-#      cta_alt:
-#        label: Ask a question
-#        url: https://discord.gg/z8wNYzb
-#      cta_note:
-#        label: >-
 
       text: |-
         This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University. The research interest lies in the intersection of water resources modeling, remote sensing and in-situ observations, data fusion, and the study of large-scale hydrology as it relates to climate change and environmental monitoring.
