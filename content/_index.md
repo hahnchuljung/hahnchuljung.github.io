@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Welcome! Satellite Geosciences @ Yonsei University
+      title: Satellite Geosciences @ Yonsei University
       image:
         filename: '' # hero-academic.png
       # cta:
@@ -19,7 +19,7 @@ sections:
       # cta_note:
         # label:  >-
       text: |-
-       <font size="1"> This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University. </font>
+       <font size="5"> This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University. </font>
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
         # <!--GitHub Button JS-->
