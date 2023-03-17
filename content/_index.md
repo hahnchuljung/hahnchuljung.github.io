@@ -42,7 +42,7 @@ sections:
 
   - block: experience
     content:
-      title: Experience
+      title: Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -73,7 +73,7 @@ sections:
           date_end: '2020-03-06'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: '1'
       
   - block: accomplishments
     content:
