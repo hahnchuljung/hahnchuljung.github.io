@@ -64,7 +64,7 @@ sections:
 
               * Analysing
               * Modelling
-              * Deploying            
+              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
