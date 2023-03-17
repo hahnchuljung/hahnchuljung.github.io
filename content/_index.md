@@ -65,19 +65,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying            
-        - title: Lead & Chief Research Scientist
-          company: NASA Goddard Space Flight Center
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
-          location: Maryland, USA
-          date_start: '2011-01-07'
-          date_end: '2022-03-06'
-          # description: Taught electronic engineering and researched semiconductor physics.
-           description: |2-
-              Responsibilities include:
-              * LIS (Land Information System) modeling
-              * Water balance and resource studies using satellite observations
-              * Interferometric SAR application to wetland    
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
       
