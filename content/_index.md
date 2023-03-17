@@ -38,12 +38,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-     
-  - block: bio
-    content:
-      title: bio  
-     # Short bio (displayed in user profile at end of posts)
-       text: |-
        My research interests include distributed robotics, mobile computing and programmable matter.
 
   - block: experience
