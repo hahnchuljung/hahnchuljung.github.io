@@ -9,7 +9,7 @@ sections:
     content:
       title: Welcome! Satellite Geosciences @ Yonsei University
       image:
-        filename: hero-academic.png
+        filename: # hero-academic.png
       # cta:
         # label: '**Get Started**'
         # url: https://wowchemy.com/templates/
