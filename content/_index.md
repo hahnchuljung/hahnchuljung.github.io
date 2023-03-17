@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Satellite Geosciences @ Yonsei Univeristy
+      title: Hugo Academic Theme
       image:
         filename: hero-academic.png
       cta:
