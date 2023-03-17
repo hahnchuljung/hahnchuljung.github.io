@@ -46,23 +46,6 @@ sections:
        text: |-
        My research interests include distributed robotics, mobile computing and programmable matter.
 
-       interests:
-          - Artificial Intelligence
-          - Computational Linguistics
-          - Information Retrieval
-
-        education:
-        courses:
-          - course: PhD in Satellite Hydrology
-            institution: The Ohio State University
-             year: 2011
-          - course: MSc in Remote Sensing & Geophysics
-            institution: Yonsei University
-             year: 2003
-          - course: BSc in Earth System Sciences
-            institution: Yonsei University
-             year: 1988
-     
   - block: experience
     content:
       title: Experience
