@@ -69,9 +69,7 @@ sections:
           date_end: '2023-02-28'
           description: |2-
               Responsibilities include:
-              * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar
-              * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone               
-              * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone               
+              * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar         
         - title: Lead & Chief Research Scientist
           company: NASA Goddard Space Flight Center
           company_url: ''
