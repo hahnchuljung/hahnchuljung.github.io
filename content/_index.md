@@ -58,8 +58,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Assocaite Professor
-          company: Yonsei University
-          company_url: ''
+          company: Dept. of Earth System Sciences, Yonsei University
+          company_url: 'http://geo.yonsei.ac.kr/en/'
           company_logo: school
           location: Seoul, Korea
           date_start: '2023-03-01'
@@ -67,7 +67,7 @@ sections:
           description: Taught satellite geosciences and satellite hydrology
         - title: Joint Associate Professor
           company: University of Science & Technology (UST), Ocean Science and Technology (OST) 
-          company_url: ''
+          company_url: 'https://www.ust.ac.kr/eng.do'
           company_logo: school
           location: Busan, Korea
           date_start: '2021-03-01'
@@ -75,7 +75,7 @@ sections:
           description: Taught costal remote sensing
         - title: Senior Rserach Scientist
           company: Korea Ocean Satellite Center, Korea Institute of Ocean Science and Technology (KIOST)
-          company_url: ''
+          company_url: 'https://kosc.kiost.ac.kr/index.nm?lang=en&contentId=82'
           company_logo: research
           location: Busan, Korea
           date_start: '2020-03-13'
@@ -85,7 +85,7 @@ sections:
               * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone 
         - title: Lead & Chief Research Scientist
           company: NASA Goddard Space Flight Center (GSFC) & Science Systems and Applications, Inc (SSAI)
-          company_url: ''
+          company_url: 'https://science.gsfc.nasa.gov/earth/hydrology/'
           company_logo: satellite
           location: Maryland, USA
           date_start: '2015-01-05'
@@ -97,7 +97,7 @@ sections:
               * Land Information System (LIS) modeling         
         - title: Research Associate
           company: NASA Goddard Space Flight Center (GSFC) & University of Maryland (UMD)
-          company_url: ''
+          company_url: 'https://science.gsfc.nasa.gov/earth/hydrology/'
           company_logo: satellite
           location: Maryland, USA
           date_start: '2014-01-31'
@@ -107,7 +107,7 @@ sections:
               * CREST hydrological model
         - title: Postdoctoral Researcher
           company: NASA Goddard Space Flight Center (GSFC) & Oak Ridge Associated Universities (ORAU)
-          company_url: ''
+          company_url: 'https://science.gsfc.nasa.gov/earth/hydrology/'
           company_logo: satellite
           location: Maryland, USA
           date_start: '2011-01-07'
