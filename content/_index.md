@@ -39,11 +39,11 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
      
-- block: BIO
+  - block: bio
     content:
-      title: BIO   
+      title: bio  
      # Short bio (displayed in user profile at end of posts)
-       bio: My research interests include distributed robotics, mobile computing and programmable matter.
+       text: My research interests include distributed robotics, mobile computing and programmable matter.
 
        interests:
           - Artificial Intelligence
