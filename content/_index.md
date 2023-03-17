@@ -54,6 +54,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assocaite Professor
+          company: Yonsei University
+          company_url: ''
+          company_logo: org-x
+          location: Maryland, USA
+          date_start: '2023-03-01'
+          date_end: 
+          description: Taught satellite geosciences and hydrology.
+
         - title: Senior Rserach Scientist
           company: Korea Ocean Satellite Center, KIOST
           company_url: ''
