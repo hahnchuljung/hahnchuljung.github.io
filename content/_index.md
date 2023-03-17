@@ -19,8 +19,7 @@ sections:
       # cta_note:
         # label:  >-
       text: |-
-       This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University.
-
+       <font size="1"> This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University. </font>
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
         # <!--GitHub Button JS-->
