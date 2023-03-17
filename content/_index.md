@@ -64,8 +64,7 @@ sections:
           location: Seoul, Korea
           date_start: '2023-03-01'
           date_end: 
-          description: Taught satellite geosciences and hydrology
-
+          description: Taught satellite geosciences and satellite hydrology
         - title: Joint Associate Professor
           company: University of Science & Technology (UST), Ocean Science and Technology (OST) 
           company_url: ''
@@ -74,62 +73,48 @@ sections:
           date_start: '2021-03-01'
           date_end: '2023-02-28'
           description: Taught costal remote sensing
-
         - title: Senior Rserach Scientist
-          company: Korea Ocean Satellite Center, KIOST
+          company: Korea Ocean Satellite Center, Korea Institute of Ocean Science and Technology (KIOST)
           company_url: ''
           company_logo: org-gc
           location: Busan, Korea
           date_start: '2020-03-13'
           date_end: '2023-02-28'
           description: |2-
-              Responsibilities include:
-
               * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar
               * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone 
-
-
         - title: Lead & Chief Research Scientist
-          company: NASA Goddard Space Flight Center (GSFC) & SSAI
+          company: NASA Goddard Space Flight Center (GSFC) & Science Systems and Applications, Inc (SSAI)
           company_url: ''
           company_logo: org-x
           location: Maryland, USA
           date_start: '2015-01-05'
           date_end: '2020-03-06'
           description: |2-
-              Responsibilities include:
-
-              * A West Africa LDAS for forecasting extreme hydrological Events
+              * A west Africa LDAS for forecasting extreme hydrological Events
               * Water balance and resource studies using satellite observations 
               * Radar flood mapping
-              * LIS (Land Information System) modeling
-          
+              * Land Information System (LIS) modeling         
         - title: Research Associate
-          company: NASA Goddard Space Flight Center (GSFC) & UMD
+          company: NASA Goddard Space Flight Center (GSFC) & University of Maryland (UMD)
           company_url: ''
           company_logo: org-x
           location: Maryland, USA
           date_start: '2014-01-31'
           date_end: '2015-01-04'          
           description: |2-
-              Responsibilities include:
-
               * Radar application on ecosystem and hazard
               * CREST hydrological model
         - title: Postdoctoral Researcher
-          company: NASA Goddard Space Flight Center (GSFC) & ORAU
+          company: NASA Goddard Space Flight Center (GSFC) & Oak Ridge Associated Universities (ORAU)
           company_url: ''
           company_logo: org-x
           location: Maryland, USA
           date_start: '2011-01-07'
           date_end: '2014-01-06'          
           description: |2-
-              Responsibilities include:
-
               * Interferometric SAR application to wetland 
-              * 2D floodplain hydrodynamic LISFLOOD model    
-
-          
+              * 2D floodplain hydrodynamic LISFLOOD model         
     design:
       columns: '1'
       
