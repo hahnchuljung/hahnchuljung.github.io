@@ -38,7 +38,11 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-       # Short bio (displayed in user profile at end of posts)
+     
+- block: BIO
+    content:
+      title: BIO   
+     # Short bio (displayed in user profile at end of posts)
        bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
        interests:
@@ -57,7 +61,7 @@ sections:
           - course: BSc in Earth System Sciences
             institution: Yonsei University
              year: 1988
-       
+     
   - block: experience
     content:
       title: Experience
