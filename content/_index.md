@@ -52,29 +52,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Associate Professor
+          company: Yonsei University
+          company_url: ''
+          company_logo: org-x
+          location: Seoul, Korea
+          date_start: '2023-03-01'
+          date_end: 
+          description: Taught satellite geosciences for undergraduate and satellite hydrology for graduate.              
+        - title: Senior Research Scientist
+          company: Korea Ocean Satellite Center, KIOST
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Busan, Korea
+          date_start: '2020-03-13'
+          date_end: '2023-02-28'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar
+              * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone               
+        - title: Lead & Chief Research Scientist
+          company: NASA Goddard Space Flight Center
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Maryland, USA
+          date_start: '2011-01-07'
+          date_end: '2022-03-06'
+          # description: Taught electronic engineering and researched semiconductor physics.
+           description: |2-
+              Responsibilities include:
+
+              * LIS (Land Information System) modeling
+              * Water balance and resource studies using satellite observations
+              * Interferometric SAR application to wetland 
+          
     design:
-      columns: '2'
+      columns: '3'
       
   - block: accomplishments
     content:
