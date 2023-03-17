@@ -3,8 +3,8 @@
 title: Hahn Chul Jung
 
 # Full name (for SEO)
-first_name: Hahn Chul 
-last_name: Jung
+#first_name: Hahn Chul 
+#last_name: Jung
 
 # Status emoji
 # status:
