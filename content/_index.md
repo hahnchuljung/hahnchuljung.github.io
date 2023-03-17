@@ -25,7 +25,7 @@ sections:
         **Easily build anything with blocks - no-code required!**
 
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-        
+
         <!--Custom spacing-->
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
@@ -35,9 +35,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-
-
-- block: about.avatar
+  - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
