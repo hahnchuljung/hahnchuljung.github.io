@@ -30,7 +30,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-      columns: '2'        
+      
         
   - block: about.avatar
     id: about
@@ -40,6 +40,10 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
        My research interests include distributed robotics, mobile computing and programmable matter.
+    design:
+      columns: '2'
+
+
 
   - block: experience
     content:
