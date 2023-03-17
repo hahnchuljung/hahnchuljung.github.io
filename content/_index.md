@@ -60,7 +60,7 @@ sections:
         - title: Assocaite Professor
           company: Yonsei University
           company_url: ''
-          company_logo: school.png
+          company_logo: school
           location: Seoul, Korea
           date_start: '2023-03-01'
           date_end: 
@@ -68,7 +68,7 @@ sections:
         - title: Joint Associate Professor
           company: University of Science & Technology (UST), Ocean Science and Technology (OST) 
           company_url: ''
-          company_logo: org-x
+          company_logo: school
           location: Busan, Korea
           date_start: '2021-03-01'
           date_end: '2023-02-28'
@@ -76,7 +76,7 @@ sections:
         - title: Senior Rserach Scientist
           company: Korea Ocean Satellite Center, Korea Institute of Ocean Science and Technology (KIOST)
           company_url: ''
-          company_logo: org-gc
+          company_logo: research
           location: Busan, Korea
           date_start: '2020-03-13'
           date_end: '2023-02-28'
@@ -86,7 +86,7 @@ sections:
         - title: Lead & Chief Research Scientist
           company: NASA Goddard Space Flight Center (GSFC) & Science Systems and Applications, Inc (SSAI)
           company_url: ''
-          company_logo: org-x
+          company_logo: satellite
           location: Maryland, USA
           date_start: '2015-01-05'
           date_end: '2020-03-06'
@@ -98,7 +98,7 @@ sections:
         - title: Research Associate
           company: NASA Goddard Space Flight Center (GSFC) & University of Maryland (UMD)
           company_url: ''
-          company_logo: org-x
+          company_logo: satellite
           location: Maryland, USA
           date_start: '2014-01-31'
           date_end: '2015-01-04'          
@@ -108,7 +108,7 @@ sections:
         - title: Postdoctoral Researcher
           company: NASA Goddard Space Flight Center (GSFC) & Oak Ridge Associated Universities (ORAU)
           company_url: ''
-          company_logo: org-x
+          company_logo: satellite
           location: Maryland, USA
           date_start: '2011-01-07'
           date_end: '2014-01-06'          
