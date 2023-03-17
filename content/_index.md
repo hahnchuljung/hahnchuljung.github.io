@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: <font size="10"> Welcome to </font> Satellite Geosciences Lab
+      title: Satellite Geosciences Lab
       image:
         filename: '' # hero-academic.png
       # cta:
@@ -19,7 +19,7 @@ sections:
       # cta_note:
         # label:  >-
       text: |-
-       <font size="10"> 위성지구과학 연구실 </font>
+       <font size="10">  위성지구과학 연구실 </font>
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
         # <!--GitHub Button JS-->
