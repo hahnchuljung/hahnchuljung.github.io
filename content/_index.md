@@ -52,26 +52,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Rserach Scientist
+          company: Korea Ocean Satellite Center, KIOST
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Busan, Korea
+          date_start: '2021-03-13'
+          date_end: '2023-02-28'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar
+              * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone 
+        - title: Lead-, Chief Research Scientist
+          company: NASA Goddard Space Flight Center
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Maryland, USA
+          date_start: '2011-01-07'
+          date_end: '2020-03-06'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
