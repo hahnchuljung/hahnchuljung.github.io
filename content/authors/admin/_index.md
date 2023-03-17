@@ -22,7 +22,7 @@ organizations:
     url: https://www.yonsei.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -31,8 +31,9 @@ interests:
   - Natural Disaster
 
 # Education to show in About widget
-education:
-  courses:
+# education:
+# courses:
+bio:
     - course: PhD in Satellite Hydrology
       institution: The Ohio State University
       year: 2011
