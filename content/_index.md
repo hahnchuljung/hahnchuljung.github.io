@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Satellite Geosciences Lab
+      title: SATELLITE GEOSCIENCES LAB
       image:
         filename: '' # hero-academic.png
       # cta:
@@ -19,7 +19,7 @@ sections:
       # cta_note:
         # label:  >-
       text: |-
-       <font size="10">  위성지구과학 연구실 </font>
+       <font size="10">  DEPT. EARTH SYSTEM SCIENCES YONSEI UNIVERSITY </font>
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
         # <!--GitHub Button JS-->
