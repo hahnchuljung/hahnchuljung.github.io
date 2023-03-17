@@ -81,7 +81,7 @@ sections:
               * Water balance and resource studies using satellite observations
               * Interferometric SAR application to wetland    
     design:
-      columns: '3'
+      columns: '2'
       
   - block: accomplishments
     content:
