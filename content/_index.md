@@ -60,7 +60,7 @@ sections:
         - title: Assocaite Professor
           company: Yonsei University
           company_url: ''
-          company_logo: org-x
+          company_logo: school.png
           location: Seoul, Korea
           date_start: '2023-03-01'
           date_end: 
