@@ -67,7 +67,7 @@ sections:
           location: Busan, Korea
           date_start: '2020-03-13'
           date_end: '2023-02-28'
-          description: |2-
+          description: 
               Responsibilities include:
         - title: Lead & Chief Research Scientist
           company: NASA Goddard Space Flight Center
