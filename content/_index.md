@@ -30,7 +30,8 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-        
+    design:
+      columns: '2'        
         
   - block: about.avatar
     id: about
