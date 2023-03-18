@@ -20,7 +20,7 @@ main:
 #    url: '#featured'
 #    weight: 50
   - name: Publications
-    url: '#publication'
+    url: https://scholar.google.com/citations?user=9VVhDc8AAAAJ&hl=en 
     weight: 50
   - name: Contact
     url: '#contact'
@@ -28,6 +28,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/cv.pdf
-#    weight: 70
+  - name: CV
+    url: uploads/cv.pdf
+    weight: 70
