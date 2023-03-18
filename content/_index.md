@@ -39,7 +39,10 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-       My research interests include distributed robotics, mobile computing and programmable matter.
+       My research interests include remote sensing, water resources, natural disaster monitoring.
+       
+       The lab's doors are always open to PhD, MSc, and undergraduate students looking for research topics. Please feel free to visit us to learn more about possible research topics and programs.
+       
     design:
       columns: '2'
 
