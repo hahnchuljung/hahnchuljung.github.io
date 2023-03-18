@@ -282,6 +282,9 @@ sections:
           date_start: 
           date_end: 
           description: 
+    design:
+      columns: '1'
+
 
   - block: contact
     id: contact
