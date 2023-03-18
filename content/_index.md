@@ -268,7 +268,20 @@ sections:
 #    design:
 #      columns: '2'
       
-      
+
+  - block: publication
+    id: publication
+    content:
+      title: Publicationse
+        - title: Assocaite Professor
+          company: Dept. of Earth System Sciences, Yonsei University
+          company_url: 'https://scholar.google.com/citations?user=9VVhDc8AAAAJ&hl=en'
+          company_logo: googlescholar
+          location: 
+          date_start: 
+          date_end: 
+          description: 
+
   - block: contact
     id: contact
     content:
