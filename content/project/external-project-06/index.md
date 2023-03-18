@@ -1,6 +1,6 @@
 ---
 title: External Project
-summary: SAR satellite planing and utilizatoin research
+summary: Earth system sciences satellite planing and utilizatoin research
 
 
 # Optional external URL for project (replaces project detail page).
