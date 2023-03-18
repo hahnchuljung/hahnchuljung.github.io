@@ -268,12 +268,15 @@ sections:
 #    design:
 #      columns: '2'
       
-  - block: tag_cloud
+  - block: pulbication
+    id: publication
     content:
-      title: Publications
+      title: Contact
+      subtitle:
+      email: Google Scholar
     design:
-      columns: '2'
-
+      columns: '2'      
+      
   - block: contact
     id: contact
     content:
