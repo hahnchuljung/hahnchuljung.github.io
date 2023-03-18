@@ -268,23 +268,11 @@ sections:
 #    design:
 #      columns: '2'
       
-
-  - block: publication
-    id: publication
+  - block: tag_cloud
     content:
       title: Publications
-      items:
-        - title: 
-          company: Google Scholar
-          company_url: 'https://scholar.google.com/citations?user=9VVhDc8AAAAJ&hl=en'
-          company_logo: googlescholar
-          location: 
-          date_start: 
-          date_end: 
-          description: 
     design:
       columns: '1'
-
 
   - block: contact
     id: contact
