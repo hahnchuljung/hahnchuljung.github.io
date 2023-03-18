@@ -117,7 +117,7 @@ sections:
               * Interferometric SAR application to wetland 
               * 2D floodplain hydrodynamic LISFLOOD model         
     design:
-      columns: '1'
+      columns: '2'
       
   - block: accomplishments
     content:
