@@ -272,7 +272,7 @@ sections:
     content:
       title: Publications
     design:
-      columns: '1'
+      columns: '2'
 
   - block: contact
     id: contact
